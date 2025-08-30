@@ -1,6 +1,9 @@
-# Open Genes MCP Server
+![Logo](logo.png)
+# Unofficial Open Genes MCP Server
 
 A Model Context Protocol (MCP) server that provides access to the Open Genes API, a comprehensive database of genetic and aging-related data.
+
+**Developed by [Augmented Nature](https://augmentednature.ai)**
 
 ## Overview
 
